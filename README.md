@@ -1,5 +1,5 @@
 # Survival-Game
-first survival game, might be crazy
+first survival game, nothing crazy
 
 Movement:
 
